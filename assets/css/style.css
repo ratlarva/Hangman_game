@@ -1,0 +1,63 @@
+body{
+	background-color:black;
+}
+.hangTitle>img{
+	width:500px;
+	margin-left: 500px;
+}
+.galPic{
+	width:300px;
+	position: absolute;
+    top: 250px;
+    left: 620px;
+	margin-bottom: 200px;
+	filter: grayscale(100%);
+}
+.bigOldBox{
+	position: absolute;
+	height:600px;
+	width:1200px;
+	left:150px;
+	top:500px;
+	border:dashed;
+	border-color:yellow;
+}
+.instructions>h2{
+	color:gray;
+	font-family:impact;
+	font-size:16pt;
+	text-align: center;
+	margin-top:50px;
+}
+.chosen{
+	border: solid;
+	border-color: white;
+	height: 100px;
+	width: 800px;
+	margin-left:200px;
+	margin-top:50px;
+}
+.messageBox{
+	border: solid;
+	border-color: orange;
+	height: 100px;
+	width: 500px;
+	margin-left:350px;
+}
+.wordBox{
+	height:80px;
+	width:500px;
+	margin-left:350px;
+	margin-top: 0px;
+	margin-bottom:0px;
+	border:solid;
+	border-color:lightgreen;
+}
+#underScores{
+	height:50px;
+	width:500px;
+	margin-left:350px;
+	margin-bottom: 100px;
+	border:solid;
+	border-color:lightblue;
+}
